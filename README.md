@@ -1,1 +1,1 @@
-<a href="dhirushyareactsyledcomponents.netlify.app">Click to visit site</a>
+<a href="https://dhirushyareactsyledcomponents.netlify.app/" target="_blank">Click to visit site...</a>
